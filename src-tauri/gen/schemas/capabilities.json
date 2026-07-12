@@ -1,1 +1,1 @@
-{}
+{"orbita-remote":{"identifier":"orbita-remote","description":"Autorise la page distante gestion.epicube.ch (barre de titre injectée) à piloter la fenêtre.","remote":{"urls":["https://gestion.epicube.ch"]},"local":true,"windows":["main"],"permissions":["core:window:allow-minimize","core:window:allow-toggle-maximize","core:window:allow-close","core:window:allow-start-dragging","core:window:allow-set-focus"]}}
