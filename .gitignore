@@ -1,0 +1,4 @@
+/src-tauri/target
+/gen
+orbita-icon-src.png
+node_modules
